@@ -24,12 +24,12 @@ author: Yann Mobian
 
 navbar-links:
   Accueil: index.html
-  Seconde 2 : 
-    - Mathématiques: "https://beautifuljekyll.com"
+  Seconde : 
+    - Seconde 2:  "https://beautifuljekyll.com"
     - SNT : "https://www.markdowntutorial.com/"
   1STMG : 
   Terminale :
-  - Spécialité : https://github.com/ymobian/Ressources-Monsieur/tree/master/TMaths3.TMaths6
+  - Spécialité : 
   - Expertes :  https://github.com/ymobian/Ressources-Monsieur/tree/master/Maths.Expertes
   - Grand oral : https://www.education.gouv.fr/bo/20/Special2/MENE2002780N.htm?cid_bo=149115
   - Ens. scientifique : https://github.com/ymobian/Ressources-Monsieur/tree/master/Enseignement.Scientifique
