@@ -10,21 +10,26 @@
 ############################
 
 # Name of website
-title: My Website
+title: Lycée Ravel Saint-Jean-de-Luz
+
+description: Ressources de Mathématiques et des SNT (entre autres...)
+
 
 # Your name to show in the footer
-author: Some Person
+author: Yann Mobian
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Accueil: index.html
+  Seconde 2 : 
+    - Mathématiques: "https://beautifuljekyll.com"
+    - SNT : "https://www.markdowntutorial.com/"
+  Première STMG : 
+  Terminale :
+  Parcoursup : 
 
 ################
 # --- Logo --- #
