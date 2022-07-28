@@ -27,9 +27,13 @@ navbar-links:
   Seconde 2 : 
     - Mathématiques: "https://beautifuljekyll.com"
     - SNT : "https://www.markdowntutorial.com/"
-  Première STMG : 
+  1STMG : 
   Terminale :
   Parcoursup : 
+    - Le site : https://www.parcoursup.fr/
+    - Les data : https://data.enseignementsup-recherche.gouv.fr/pages/parcoursupdata/?disjunctive.fili
+    - Le calendrier : https://cache.media.enseignementsup-recherche.gouv.fr/file/Mediatheque/02/5/infographie_calendrier_1420025.pdf
+    - L'Onisep : https://www.terminales2021-2022.fr/
 
 ################
 # --- Logo --- #
@@ -40,7 +44,7 @@ navbar-links:
 avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: "/images/M.png
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
