@@ -15,7 +15,7 @@ title: Lycée Ravel Saint-Jean-de-Luz
 description: Ressources de Mathématiques et des SNT (entre autres...)
 
 
-# Your name to show in the footer
+# Your name to show in the footer https://github.com/ymobian/Ressources-Monsieur/tree/master/Seconde4
 author: Yann Mobian
 
 ###############################################
@@ -25,7 +25,7 @@ author: Yann Mobian
 navbar-links:
   Accueil: index.html
   Seconde : 
-    - Seconde 2:  https://github.com/ymobian/Ressources-Monsieur/tree/master/Seconde4
+    - Seconde 2:  https://github.com/matharavel/Ressources/tree/main/Seconde2
     - SNT : https://github.com/matharavel/Ressources/tree/main/SNT
   1STMG : https://github.com/matharavel/Ressources/tree/main/1STMG
   Terminale :
