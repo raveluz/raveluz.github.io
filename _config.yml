@@ -10,9 +10,9 @@
 ############################
 
 # Name of website
-title: Lycée Ravel Saint-Jean-de-Luzo
+title: Lycée Ravel Saint-Jean-de-Luz
 
-description: Site professionnel d'Aline et Yann MOBIAN
+description: Site professionnel
 
 
 # Your name to show in the footer https://github.com/ymobian/Ressources-Monsieur/tree/master/Seconde4
@@ -68,7 +68,7 @@ social-network-links:
   github: raveluz
   #twitter: daattali
   #patreon: DeanAttali
-  youtube: matharavel
+  youtube: https://www.youtube.com/channel/UCf20K2AUAZH8x6Q1Z2KnYXg
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
