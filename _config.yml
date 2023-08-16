@@ -24,20 +24,18 @@ author: Aline & Yann Mobian
 
 navbar-links:
   Accueil: index.html
-  Seconde : 
-    - Seconde 2:  https://github.com/matharavel/Ressources/tree/main/Seconde2
-    - SNT : https://github.com/matharavel/Ressources/tree/main/SNT
-  1STMG : https://github.com/matharavel/Ressources/tree/main/1STMG
+  Seconde 8 : https://github.com/raveluz/Ressources/tree/main/Seconde8
+  Premières : 
+  - 1STMG
+  - 1ES
   Terminale :
   - Spécialité : https://github.com/raveluz/Ressources/tree/main/TMaths
   - Les experts :  https://github.com/raveluz/Ressources/tree/main/Expertes
   - Grand oral : https://www.education.gouv.fr/bo/20/Special2/MENE2002780N.htm?cid_bo=149115
   - Ens. scientifique : 
-  Parcoursup : 
-    - Le site : https://www.parcoursup.fr/
-    - Les data : https://data.enseignementsup-recherche.gouv.fr/pages/parcoursupdata/?disjunctive.fili
-    - Le calendrier : https://cache.media.enseignementsup-recherche.gouv.fr/file/Mediatheque/02/5/infographie_calendrier_1420025.pdf
-    - L'Onisep : https://www.terminales2021-2022.fr/
+  - Le site de parcoursup : https://www.parcoursup.fr/
+  - Les datas de parcoursup : https://data.enseignementsup-recherche.gouv.fr/pages/parcoursupdata/?disjunctive.fili
+  
 
 ################
 # --- Logo --- #
