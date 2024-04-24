@@ -2,6 +2,6 @@
 
 source "https://rubygems.org"
 
-gem 'jemoji'
+gem "jemoji"
 
 gemspec
