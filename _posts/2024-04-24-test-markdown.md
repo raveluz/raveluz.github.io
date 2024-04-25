@@ -3,12 +3,11 @@ layout: post
 title: Sample blog post to learn markdown tips
 subtitle: There's lots to learn!
 tags: [test]
-comments: 
-- "/includes/staticman-comments.html"
 css:
 - "/css/theorems.css"
 mathjax: true
 author: Bill Smith
+comments: true
 ---
 
 
