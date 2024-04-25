@@ -3,7 +3,8 @@ layout: post
 title: Sample blog post to learn markdown tips
 subtitle: There's lots to learn!
 tags: [test]
-comments: true
+comments: 
+- "/includes/staticman.html"
 css:
 - "/css/theorems.css"
 mathjax: true
