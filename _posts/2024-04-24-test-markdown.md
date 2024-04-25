@@ -3,7 +3,6 @@ layout: post
 title: Décomposition QR
 css:
 - "/css/theorems.css"
-date: 2023-03-24 18:20 +0100
 ---
 
 ## Notations
