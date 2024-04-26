@@ -6,6 +6,7 @@ tags: [test]
 css:
 - "/css/theorems.css"
 mathjax: true
+published: false
 author: Bill Smith
 comments: true
 ---
