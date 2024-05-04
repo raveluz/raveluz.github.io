@@ -156,17 +156,17 @@
   </li>
 {%- endif -%}
 
-{%- if site.social-network-links.youtube -%}
+{%- if network[0] == "youtube" -%}
   <li class="list-inline-item">
-    <a href="https://www.youtube.com/{{ site.social-network-links.youtube }}" title="YouTube">
+    <a href="https://www.youtube.com/{{ network[1] }}" title="YouTube">
       <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-youtube fa-stack-1x fa-inverse"></i>
       </span>
       <span class="sr-only">YouTube</span>
    </a>
   </li>
-{%- endif -%}
+  {%- endif -%}
 
 {%- if site.social-network-links.spotify -%}
   <li class="list-inline-item">
