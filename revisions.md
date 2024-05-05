@@ -13,11 +13,11 @@ Voici un programme de révisions pour cette semaine :
 - Samedi 11 mai : dénombrement
 - Dimanche 12 mai : équations différentielles et trigonométrie
 
-Je vous posterai le corrigé le lendemain pour vous permettre de contrôler ce que vous faites.
+Je vous posterai le corrigé le lendemain pour vous permettre de vérifier si ce que vous faites est juste ou non.
 J'espère que ce la vous conviendra.
 Bon courage à toutes et tous! :punch:
 
-### Mercredi 8 mai 2024
+### Mercredi 8 mai 2024 : durée 1h environ
 
-Voici  par ce [sujet](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Voici  le [premier exercice](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/08.05.pdf)) qui traite de la fonction **exponentielle** et de **l'intégration**.
 
