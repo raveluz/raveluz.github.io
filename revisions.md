@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Séances de révisions
-subtitle: Why you'd want to go on a date with me
+subtitle: TMaths groupe 4
 ---
 
 Voici un programme de révisions pour cette semaine : 
