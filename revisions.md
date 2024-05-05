@@ -4,12 +4,15 @@ title: Séances de révisions
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Voici un programme de révisions pour cette semaine : 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Mecredi 8 mai : fonction et exp et intégration
+- Jeudi 9 mai : espace
+- Vendredi 10 mai : probabilités
+- Samedi 11 mai : dénombrement
+- Dimanche 12 mai : équations différentielles et trigonométrie
 
-What else do you need?
+Bon courage à toutes et tous! :punch:
 
 ### Mercredi 8 mai 2024
 
