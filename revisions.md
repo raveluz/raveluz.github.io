@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Séances de révisions
+mathjax: true
 subtitle: TMaths groupe 4
 ---
 
