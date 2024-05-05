@@ -14,8 +14,7 @@ Voici un programme de révisions pour cette semaine :
 - Dimanche 12 mai : équations différentielles et trigonométrie
 
 Je vous posterai le corrigé le lendemain pour vous permettre de vérifier si ce que vous faites est juste ou non.
-J'espère que ce la vous conviendra.
-Bon courage à toutes et tous! :punch:
+Bonnes révisions à toutes et tous! :punch:
 
 ### Mercredi 8 mai 2024 : durée 1h environ
 
