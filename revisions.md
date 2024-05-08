@@ -20,4 +20,8 @@ Bonnes révisions à toutes et tous! :punch:
 
 Voici  le [premier exercice](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/08.05.pdf) qui traite de la fonction **exponentielle** et de **l'intégration**.
 
+### Jeudi 9 mai 2024 : durée 1h environ
+
+Voici  le [premier exercice](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/08.05.pdf) qui traite de la fonction **exponentielle** et de **l'intégration**.
+
 
