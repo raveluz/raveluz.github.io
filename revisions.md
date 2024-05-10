@@ -24,7 +24,7 @@ Voici  le [premier exercice](https://github.com/raveluz/raveluz.github.io/blob/m
 
 Voici le [second exercice](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/09.05.pdf) qui reprend  **la géométrie dans l'espace**.
 
-# Vendredi 10 mai 2024 : durée 50  minutes environ
+###  Vendredi 10 mai 2024 : durée 50  minutes environ
 
 Voici le [troisième exercice](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/10.05.pdf) qui est un classique en **probabilités discrètes**.
 
