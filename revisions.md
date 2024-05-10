@@ -22,7 +22,7 @@ Voici  le [premier exercice](https://github.com/raveluz/raveluz.github.io/blob/m
 
 ### Jeudi 9 mai 2024 : durée 1h environ
 
-Voici le [second exercice](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/09.05.pdf) qui reprend  **la géométrie dans l'espace** et le [corrigé de l'exercice d'hier](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/09.05.pdf) 
+Voici le [second exercice](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/09.05.pdf) qui reprend  **la géométrie dans l'espace** et le [corrigé de l'exercice d'hier](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/Correction.0805.pdf) 
 
 ###  Vendredi 10 mai 2024 : durée 50  minutes environ
 
