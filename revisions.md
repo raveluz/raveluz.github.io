@@ -28,4 +28,20 @@ Voici le [second exercice](https://github.com/raveluz/raveluz.github.io/blob/mas
 
 Voici le [troisième exercice](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/10.05.pdf) qui est un classique en **probabilités discrètes**.
 
+###  Samedi 11 mai 2024 : durée 50  minutes environ
+
+Voici le [quatrième exercice](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/11.05.pdf) qui est un QCM sur ** le dénombrement et les probabilités**.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
