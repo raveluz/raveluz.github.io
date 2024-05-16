@@ -35,7 +35,7 @@ Voici le [quatrième exercice](https://github.com/raveluz/raveluz.github.io/blob
 
 ###  Samedi 18 mai 2024 : durée 1h environ
 
-Voici un [nouvel exercice](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/18.05.pdf) qui est un exercice sur **les équations différentielles** qui est fortement recommandé.
+Voici un [nouvel exercice](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/18.05.pdf) fortement conseillé qui traite **des équations différentielles**.
 
 
 
