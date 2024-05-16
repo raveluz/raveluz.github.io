@@ -33,6 +33,13 @@ Voici le [troisième exercice](https://github.com/raveluz/raveluz.github.io/blob
 Voici le [quatrième exercice](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/11.05.pdf) qui est un QCM sur **le dénombrement et les probabilités**.
 
 
+###  Samedi 18 mai 2024 : durée 1h environ
+
+Voici le [quatrième exercice](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/18.05.pdf) qui est un exercice sur **les équations différentielles** qui est fortement recommandé.
+
+
+
+
 
 
 
