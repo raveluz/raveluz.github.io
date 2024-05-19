@@ -39,7 +39,7 @@ Voici un [nouvel exercice](https://github.com/raveluz/raveluz.github.io/blob/mas
 
 ###  Dimanche 19 mai 2024 : durée 45 minutes environ
 
-Voici un [nouvel exercice](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/1905.pdf) fortement conseillé qui traite notamment **du dénombrement**. Je vous joins le corrigé de l'[exercice](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/18.05.pdf)  d'hier.
+Voici un [nouvel exercice](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/1905.pdf) fortement conseillé qui traite notamment **du dénombrement**. Je vous joins le corrigé de l'[exercice](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/Correction.1805.pdf)  d'hier.
 
 
 
