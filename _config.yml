@@ -66,7 +66,7 @@ round-avatar:
 social-network-links:
   email: "majaboo64@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
- # facebook: deanattali
+ facebook: deanattali
   github: raveluz
   #twitter: daattali
   #patreon: DeanAttali
@@ -103,7 +103,7 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
+  facebook: true
   linkedin: true
   vk: false
   youtube: true 
