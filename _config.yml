@@ -302,7 +302,6 @@ exclude:
   - docs/
 
 plugins:
-  plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
