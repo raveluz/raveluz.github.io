@@ -63,10 +63,9 @@ social-network-links:
   email: "majaboo64@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: raveluz
-  youtube: "@daattali"
- #  whatsapp: 15551212
+  whatsapp: 15551212
 #  medium: yourname
-#  reddit: yourname
+ reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
