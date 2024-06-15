@@ -10,21 +10,30 @@
 ############################
 
 # Name of website
-title: My website
+title: Lycée Ravel Saint-Jean-de-Luz
 
-# Your name to show in the footer
-author: Some Person
+description: Site professionnel d'Aline et Yann MOBIAN
+author: Aline & Yann Mobian
+
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
-
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Accueil: index.html
+  Seconde 8 : https://github.com/raveluz/Ressources/tree/main/Seconde8
+  Premières : 
+  - 1STMG : https://github.com/raveluz/Ressources/tree/main/1STMG
+  - 1ES : https://github.com/raveluz/Ressources/tree/main/1reES
+  Terminale :
+  - Les spécialistes : https://github.com/raveluz/Ressources/tree/main/TMaths
+  - Côté experts :  https://github.com/raveluz/Ressources/tree/main/Expertes
+  - Grand oral : https://www.education.gouv.fr/bo/20/Special2/MENE2002780N.htm?cid_bo=149115
+  - Ens. scientifique : https://github.com/raveluz/Ressources/tree/main/Tle.ES
+  - Le site de parcoursup : https://www.parcoursup.fr/
+  - Les datas parcoursup 2022 : https://data.enseignementsup-recherche.gouv.fr/pages/parcoursupdata/?disjunctive.fili
+  - Révisions : "revisions"
+
 
 ################
 # --- Logo --- #
@@ -32,7 +41,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/emme.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -50,12 +59,10 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "majaboo64@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
+  github: raveluz
   youtube: "@daattali"
   whatsapp: 15551212
 #  medium: yourname
@@ -65,7 +72,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  spotify: yourname
+spotify: dalench
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
