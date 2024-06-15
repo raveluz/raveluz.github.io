@@ -1,14 +1,6 @@
-#source "https://rubygems.org"
-#gemspec
-
 source 'https://rubygems.org'
 
-gem "github-pages", '193', group: :jekyll_plugins
-
-# enable tzinfo-data for local build
-# gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+gem 'github-pages', '106'
 gem 'jekyll-paginate'
-gem "jemoji"
-gem 'jekyll-seo-tag'
 
 
