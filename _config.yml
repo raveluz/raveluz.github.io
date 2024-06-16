@@ -293,7 +293,6 @@ exclude:
   - CHANGELOG.md
   - CNAME
   - Gemfile
-  - Gemfile.lock
   - LICENSE
   - README.md
   - screenshot.png
