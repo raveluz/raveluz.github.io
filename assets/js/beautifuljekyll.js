@@ -1,7 +1,6 @@
 // Dean Attali / Beautiful Jekyll 2020
 
 var BeautifulJekyllJS = {
-
   bigImgEl : null,
   numImgs : null,
 
