@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Quelques lignes de Mathématiques par Yann Mobian
+title: Les Mathématiques, c'est la vie!
+subtitle: Quelques lignes de Mathématiques par Gérard Besse-Miquelerena
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
