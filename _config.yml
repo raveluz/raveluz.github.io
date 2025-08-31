@@ -21,8 +21,10 @@ author: Aline & Yann Mobian
 ###############################################
 navbar-links:
   Accueil: index.html
-  Seconde 3 : https://github.com/raveluz/Ressources/tree/main/Seconde8
-  Premières : 
+  Seconde 3 : 
+  - Côté Mathématiques : 
+  - Côté SNT : 
+    Premières : 
   - 1STMG : https://github.com/raveluz/Ressources/tree/main/1STMG
   - 1ES : https://github.com/raveluz/Ressources/tree/main/1reES
   Terminale :
