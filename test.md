@@ -1,0 +1,51 @@
+---
+layout: post
+title: Révisions vacances de Pâques
+subtitle: TMaths groupe 1
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/M.jpg
+published: true
+---
+
+Voici la liste des [exercices de révisions](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/semaine1.paques.pdf) pour ces vacances de Pâques et leur corrigé. Je vous joins également le corrigé du devoir n°10.
+
+Quelques conseils avisés pendant vos révisions:
+* relire la partie cours avant de commencer les séries d'exercices. Par exemple, l'exercice 1 est sur l'espace. Je vous encourage donc à relire le chapitre en question avant d'aborder l'exercice. Cela vous permettra de revoir certaines choses que vous avez sans doute oublier.
+* Alterner les notions et ne pas faire trop de de Maths dans une journée, c'est contre-productif.
+
+* Le [corrigé](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/Correction.DS10.2024.2025.pdf) du devoir surveillé n°10.
+  
+* Le [corrigé](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/Correction.Exercice1.paques.pdf) de l'exercice 1 sur l'espace.
+  
+* Le [corrigé](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/Correction.Exercice2.paques.pdf) de l'exercice 2 sur les équations différentielles et les fonctions.
+  
+* Le [corrigé](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/Correction.Exercice3.paques.pdf) de l'exercice 3 sur le dénombrement.
+  
+* Le [corrigé](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/Correction.Exercice4.paques.pdf) de l'exercice 4 sur la fonction logarithme.
+
+* Le [corrigé](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/Correction.Exercice5.paques.pdf) de l'exercice 5 complet sur la fonction ln et le calcul intégral.
+  
+* Le [corrigé](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/Correction.Exercice6.paques.pdf) de l'exercice 6 sur le dénombrement.
+
+* Le [corrigé](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/Correction.Exercice7.paques.pdf) de l'exercice 7 complet mélangeant équations différentielles et intégrales.
+
+* Le [corrigé](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/Correction.Exercice8.paques.pdf) de l'exercice 8 sur la géométrie dans l'espace.
+
+* Le [corrigé](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/Correction.Exercice9.paques.pdf) de l'exercice 9 sur les suites numériques avec la fonction ln.
+
+* Le [corrigé](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/Correction.Exercice10.paques.pdf) de l'exercice 10 sur les probabilités discrètes.
+
+Bon courage à toutes et tous!!!
+
+
+> Le savant n'étudie pas la nature parce que cela est utile ; il l'étudie parce qu'il y prend plaisir et il y prend plaisir parce qu'elle est belle.  
+(_Poincaré_)
+
+
+  
+
+
+
+
+
