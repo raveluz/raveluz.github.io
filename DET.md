@@ -12,5 +12,5 @@ Bon courage à toutes et tous! :punch:
 
 ### Devoir n°1 : 55 minutes sur les probabilités discrètes
 
-Le [sujet](/devoirs.blancs/DS1.2nd.degre.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS1.2nd.degre.pdf).
+Le [sujet](/devoirs.blancs/DS1.Probabilites.20243025.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS1.2nd.degre.pdf).
 
