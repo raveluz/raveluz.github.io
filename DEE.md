@@ -1,0 +1,16 @@
+---
+layout: page
+title: Archives
+subtitle: Msths exepertes groupe 2
+---
+
+Voici les différents sujets d'entraînement pour vous aider à préparer au mieux les devoirs en classe. Je vous joins également leurs corrigés.
+
+Bon courage à toutes et tous! :punch:
+
+
+
+### Devoir n°1 : calcul matriciel
+
+Le [sujet](/devoirs.blancs/DS1.2nd.degre.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS1.2nd.degre.pdf).
+
