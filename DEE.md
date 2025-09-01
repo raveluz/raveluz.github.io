@@ -9,8 +9,9 @@ Voici les différents sujets d'entraînement pour vous aider à préparer au mie
 Bon courage à toutes et tous! :punch:
 
 
+### Trimestre 1
 
-### Devoir n°1 : calcul matriciel
+## Devoir n°1 : calcul matriciel
 
 Le [sujet](/devoirs.blancs/DS3.Matrices.2024.2025.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS3.Matrices.pdf).
 
