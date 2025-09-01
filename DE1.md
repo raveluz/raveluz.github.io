@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Archives
+title: annales 2024/2025
 subtitle: 1re Maths groupe 1
 ---
 
 Voici les différents sujets d'entraînement pour vous aider à préparer au mieux les devoirs en classe. Je vous joins également leurs corrigés.
+
 Bon courage à toutes et tous! :punch:
 
 
