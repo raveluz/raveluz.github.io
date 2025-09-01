@@ -2,7 +2,7 @@
 layout: page
 title: Séances de révisions
 mathjax: true
-subtitle: TMaths groupe 4
+subtitle: TMaths groupe 2
 ---
 
 Voici un programme de révisions pour cette semaine : 
