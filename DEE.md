@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Archives
-subtitle: Msths exepertes groupe 2
+title: Msths expertes 
+subtitle: groupe 2
 ---
 
 Voici les différents sujets d'entraînement pour vous aider à préparer au mieux les devoirs en classe. Je vous joins également leurs corrigés.
