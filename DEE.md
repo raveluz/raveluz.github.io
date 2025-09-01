@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Msths expertes 
+title: Les experts 
 subtitle: groupe 2
 ---
 
