@@ -24,7 +24,9 @@ navbar-links:
   Seconde 3 : 
   - Côté Mathématiques : "aboutme"
   - Côté SNT : "test"
-  Premières : "aboutme"
+  Premières : 
+  - Les automatismes :  "aboutme"
+  - Les devoirs d'entraînement : "aboutme"
   Terminale :
   - Les spécialistes : "enseignement"
   - Côté experts :  "test"
