@@ -10,6 +10,5 @@ Touvez ci-après les **automatismes** sous forme de **QCM** que nous allons trai
 
 ### Automatismes n°1 : semaine 37
 
-Ce [premier QCM](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) combine **informations chiffrées** et **calcul littéral**. Voici son 
-Ce [premier QCM](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29).
+Ce [premier QCM](/automatismes/37.1.pdf) combine **informations chiffrées** et **calcul littéral**. Voici son corrigé.
 
