@@ -1,6 +1,6 @@
 ---
 layout: page
-title: annales 2024/2025
+title: Archives
 subtitle: 1re Maths groupe 1
 ---
 
