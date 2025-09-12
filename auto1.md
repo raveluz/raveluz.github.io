@@ -15,5 +15,9 @@ Ce [premier QCM](/automatismes/36.1.pdf) combine **informations chiffrées** et 
 
 ### Automatismes n°2 : semaine 37
 
-Ce [deuxième QCM](/automatismes/37.1.pdf) qui reprend les **informations chiffrées** et **calcul littéral**. Son corrigé.
+Ce [deuxième QCM](/automatismes/37.1.pdf) qui reprend les **informations chiffrées** et **calcul littéral**. Son [corrigé](/automatismes/correction.37.1.pdf).
+
+### Automatismes n°3 : semaine 38
+
+Ce [deuxième QCM](/automatismes/38.1.pdf) : encore des  **informations chiffrées** et du **second degré**.
 
