@@ -13,7 +13,6 @@ Voici les différents chapitres que nous traiterons tout au long de l'année.:pu
 
 Voici  le [chapitre 1](/SNT/Ch01_Donnees.pdf) qui évoque le  **traitement des données**.
 
-$2x+4=0$
 
 
  
