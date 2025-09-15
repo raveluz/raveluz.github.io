@@ -20,3 +20,19 @@
 >
 </script>
 {% endif %}
+<head>
+ <script>
+    window.MathJax = {
+      tex2jax : {
+        inlineMath : [ ['##','##'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true,
+        processClass: 'cmath|dmath'
+      },
+      displayAlign: "left"
+    };
+ </script>
+ <script async="true" 
+            src="[path]/MathJax.js?config=TeX-AMS_CHTML">
+ </script>
+</head>
