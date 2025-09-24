@@ -14,3 +14,6 @@ Bon courage à toutes et tous! :punch:
 
 Le [sujet](/devoirs.blancs/DS1.2nd.degre.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS1.2nd.degre.pdf).
 
+### Devoir surveillé n°2 : géométrie repérée et automatismes second degré
+
+Le [sujet](/devoirs.blancs/DS2.geo.reperee.pdf).
