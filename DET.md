@@ -14,3 +14,6 @@ Bon courage à toutes et tous! :punch:
 
 Le [sujet](/devoirs.blancs/DS1.Probabilites.20243025.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS1.2024.2025.pdf).
 
+### Devoir n°2 : 55 minutes sur les probabilités et les suites
+
+Le [sujet](/devoirs.blancs/DS1.Probabilites.20243025.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS1.2024.2025.pdf).
