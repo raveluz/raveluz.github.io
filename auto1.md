@@ -19,9 +19,9 @@ Ce [deuxième QCM](/automatismes/37.1.pdf) qui reprend les **informations chiffr
 
 ### Automatismes n°3 : semaine 38
 
-Ce [troisième QCM](/automatismes/38.1.pdf) : encore des  **informations chiffrées** et du **second degré**.
+Ce [troisième QCM](/automatismes/38.1.pdf) : encore des  **informations chiffrées** et du **second degré**. Son [corrigé](/automatismes/correction.38.1.pdf).
 
 ### Automatismes n°4 : semaine 39
 
-Ce [troisième QCM](/automatismes/39.1.pdf) : sur le **second degré** et le **repérage**
+Ce [troisième QCM](/automatismes/39.1.pdf) : sur le **second degré** et le **repérage**. Son [corrigé](/automatismes/correction.39.1.pdf).
 
