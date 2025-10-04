@@ -14,3 +14,6 @@ Bon courage à toutes et tous! :punch:
 
 Le [sujet](/devoirs.blancs/DS3.Matrices.2024.2025.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS3.Matrices.pdf).
 
+### Devoir n°2 : complexes (1re partie)
+
+Le [sujet](/devoirs.blancs/DS1.Complexes1.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS1.Complexes.pdf).
