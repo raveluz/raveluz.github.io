@@ -16,4 +16,4 @@ Le [sujet](/devoirs.blancs/DS3.Matrices.2024.2025.pdf) ainsi que son [corrigé](
 
 ### Devoir n°2 : complexes (1re partie)
 
-Le [sujet](/devoirs.blancs/DS1.Complexes1.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS1.Complexes.pdf).
+Le [sujet](/devoirs.blancs/DS1.Complexes1.pdf) et son [corrigé](/devoirs.blancs/Correction.DS1.Complexes.pdf).
