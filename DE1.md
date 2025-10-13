@@ -16,9 +16,9 @@ Le [sujet](/devoirs.blancs/DS1.2nd.degre.pdf) ainsi que son [corrigé](/devoirs.
 
 ### Devoir surveillé n°2 : géométrie repérée.
 
-Le [sujet](/devoirs.blancs/DS2.geo.reperee.pdf) et son [corrigé](/devoirs.blancs/Correction.DS2.Geo.reperee.pdf)
+Le [sujet](/devoirs.blancs/DS2.geo.reperee.pdf) et son [corrigé](/devoirs.blancs/Correction.DS2.Geo.reperee.pdf).
 
 
 ### Devoir surveillé n°3 : bilan de demi-trimestre 
 
-Le [sujet](/devoirs.blancs/DS3.Second.Degre(2).geo.reperee.pdf) et son [corrigé](/devoirs.blancs/Correction.DS3B.Second.degre.geo)
+Le [sujet](/devoirs.blancs/DS3.Second.Degre(2).geo.reperee.pdf) et son [corrigé](/devoirs.blancs/Correction.DS3B.Second.degre.geo.pdf).
