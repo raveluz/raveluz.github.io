@@ -24,7 +24,7 @@ Le [sujet](/devoirs.blancs/DS3.blanc.2025.2026.pdf) ainsi que son [corrigé](/de
 
 ### Devoir n°4 : 2 heures (suites et convexité)
 
-Pour ces vacances bien méritées, je vous joins le sujet d'entraînement pour le devoir du lundi de la rentrée. Bonnes vacances studieuses. :punch:
+Pour ces vacances bien méritées, je vous joins le sujet d'entraînement pour le devoir du lundi de la rentrée. Bonnes vacances studieuses. :blush:
 
 Le [sujet](/devoirs.blancs/DS4.blanc.2025.2026.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS4.blanc.pdf).
 
