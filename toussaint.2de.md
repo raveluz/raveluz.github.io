@@ -1,6 +1,5 @@
 ---
 layout: page
-title: vacances de la Toussaint
 subtitle: Révisions pour l'interrogation du 4 novembre 2025
 ---
 
