@@ -12,4 +12,9 @@ Bonne lecture à toutes et tous! :punch:
 
 ### Vidéo 1 : préparation du cours de probabilité 
 
-Voici la <a href="https://www.youtube.com/watch?v=Y06lHyI19Bo"> vidéo  </a> à visonner sur le début de cours sur les probabilités pour le vendredi 14 novembre 2025.
+Voici la <a href="https://www.youtube.com/watch?v=Y06lHyI19Bo"> vidéo  </a> à visionner sur le début de cours sur les probabilités pour le vendredi 14 novembre 2025.
+
+
+### Vidéo 2 : correction de l'exercice 5 (position de courbes)
+
+Voici la <a href="https://www.youtube.com/watch?v=Y06lHyI19Bo"> vidéo  </a> explicative concernant l'exercice 5.
