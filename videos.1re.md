@@ -13,7 +13,7 @@ Bonne lecture à toutes et tous! :punch:
 
 ### Vidéo 3 : correction du QCM&
 
-La <a href="https://www.youtube.com/watch?v=xh5orOLKnjQ"> correction  </a> explicative en vidéo du QCM1 :bell:
+La <a href="https://youtu.be/XmG7yKT5rH4"> correction  </a> explicative en vidéo du QCM1 :bell:
 
 ### Vidéo 2 : correction de l'exercice 5 (position de courbes)
 
