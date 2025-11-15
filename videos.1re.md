@@ -11,7 +11,7 @@ Bonne lecture à toutes et tous! :punch:
 
 
 
-### Vidéo 3 : correction du QCM&
+### Vidéo 3 : correction du QCM n°1.
 
 La <a href="https://youtu.be/XmG7yKT5rH4"> correction  </a> explicative en vidéo du QCM1 :bell:
 
