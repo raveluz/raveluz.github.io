@@ -17,4 +17,4 @@ Voici la <a href="https://www.youtube.com/watch?v=Y06lHyI19Bo"> vidéo  </a> à 
 
 ### Vidéo 2 : correction de l'exercice 5 (position de courbes)
 
-Voici la <a href="https://www.youtube.com/watch?v=Y06lHyI19Bo](https://youtu.be/xh5orOLKnjQ"> vidéo  </a> explicative concernant l'exercice 5.
+Voici la <a href="https://www.youtube.com/watch?v=xh5orOLKnjQ"> vidéo  </a> explicative concernant l'exercice 5.
