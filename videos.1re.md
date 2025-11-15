@@ -6,14 +6,14 @@ subtitle: 1re Maths groupe 1
 
 Voici les différents liens pour les capsules vidéos.
 
-Bonne lecture à toutes et tous! :punch:
+Bon visionnage à toutes et tous! :punch:
 
 
 
 
 ### Vidéo 3 : correction du QCM n°1.
 
-La <a href="https://youtu.be/XmG7yKT5rH4"> correction  </a> explicative en vidéo du QCM1 :bell:
+La <a href="https://youtu.be/XmG7yKT5rH4"> correction  </a> explicative en vidéo du QCM1.
 
 ### Vidéo 2 : correction de l'exercice 5 (position de courbes)
 
