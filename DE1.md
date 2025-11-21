@@ -28,4 +28,4 @@ Le [sujet](/devoirs.blancs/DS3.Second.Degre(2).geo.reperee.pdf) et son [corrigé
 
 
 
-Le [sujet](/devoirs.blancs/DS4.proba.pdf) et son [corrigé]().
+Le [sujet](/devoirs.blancs/DS4.proba.pdf) et son [corrigé](/devoirs.blancs/Correction.DS4.blanc.1reG1.2025.2026.pdf).
