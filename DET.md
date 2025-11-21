@@ -29,5 +29,10 @@ Pour ces vacances bien méritées, je vous joins le sujet d'entraînement pour l
 Le [sujet](/devoirs.blancs/DS4.blanc.2025.2026.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS4.blanc.pdf).
 
 
+### Devoir n°5 : 2 heures (bilan trimestriel)
+
+Ci-joint un sujet préparatoire pour le devoir de lundi. Dans un premier temps, reprenez les exercices vus en cours que vous n'avez pas su faire. Bien revoir la rédaction du TVI notamment. Sujet à faire quand vous pensez être au point.
+
+Le [sujet](/devoirs.blancs/DS5.blanc.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS5.blanc.pdf).
 
 
