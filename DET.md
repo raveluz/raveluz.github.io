@@ -37,6 +37,9 @@ Le [sujet](/devoirs.blancs/DS3.blanc.2025.2026.pdf) ainsi que son [corrigé](/de
 
 Ci-joint un sujet préparatoire pour le devoir de lundi. Dans un premier temps, reprenez les exercices vus en cours que vous n'avez pas su faire. Bien revoir la rédaction du TVI notamment. Sujet à faire quand vous pensez être au point.
 
-Le [sujet](/devoirs.blancs/DS5.blanc.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS5.blanc.pdf).
+Le [sujet](/devoirs.blancs/DS5.blanc.2025.2026.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS5.blanc.2025.2026.pdf).
 
+### Devoir n°6 : 55 minutes sur les limites de fonctions
+
+Le [sujet](/devoirs.blancs/DS3.blanc.2025.2026.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS3Blanc.pdf).
 
