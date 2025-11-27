@@ -28,10 +28,6 @@ Pour ces vacances bien méritées, je vous joins le sujet d'entraînement pour l
 
 Le [sujet](/devoirs.blancs/DS4.blanc.2025.2026.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS4.blanc.pdf).
 
-### Devoir n°5 : 2 heures (asymptotes, exponentielle, suites)
-
-Le [sujet](/devoirs.blancs/DS3.blanc.2025.2026.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS3Blanc.pdf).
-
 
 ### Devoir n°5 : 2 heures (bilan trimestriel)
 
