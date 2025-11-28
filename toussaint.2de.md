@@ -9,7 +9,7 @@ subtitle: Seconde 3
 ### Préparation interrogation n°5 : fiche de calculs
 
 
-Veuillez trouver ci-joint le [sujet](/pdf/prepa.interro5.pdf) pour l'interrogation du 02 décembre 2025.
+Veuillez trouver ci-joint le [sujet](/pdf/prepa.interro5.pdf) de révisions pour l'interrogation du 02 décembre 2025.
 
 Voici son [corrigé](/pdf/Correction.prepa.interro5.pdf) pour ceux qui veulent réviser.
 
