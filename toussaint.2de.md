@@ -11,7 +11,7 @@ subtitle: Seconde 3
 
 Veuillez trouver ci-joint le [sujet](/pdf/prepa.interro5.pdf) pour l'interrogation du 02 décembre 2025.
 
-Je poste son [corrigé]() ce week-end pour ceux qui veulent réviser.
+Voici son [corrigé](/pdf/Correction.prepa.interro5.pdf) pour ceux qui veulent réviser.
 
 Bon courage à toutes et tous. :punch: 
 
