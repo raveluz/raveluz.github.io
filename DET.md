@@ -37,5 +37,5 @@ Le [sujet](/devoirs.blancs/DS5.blanc.2025.2026.pdf) ainsi que son [corrigé](/de
 
 ### Devoir n°6 : 55 minutes sur les limites de fonctions
 
-Le [sujet](/devoirs.blancs/Revisions.DS6.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.prepa.DS6).
+Le [sujet](/devoirs.blancs/Revisions.DS6.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.prepa.DS6.pdf).
 
