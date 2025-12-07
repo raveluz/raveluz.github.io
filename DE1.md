@@ -35,4 +35,4 @@ Le [sujet](/devoirs.blancs/DS4.proba.pdf) et son [corrigé](/devoirs.blancs/Corr
 
 
 
-Le [sujet de préparation](/devoirs.blancs/prepa.DS5.proba.nb.derive.pdf) pour le devoir du vendredi 12 décembre.
+Le [sujet de préparation](/devoirs.blancs/prepa.DS5.proba.nb.derive.pdf) pour le devoir du vendredi 12 décembre et son [corrigé](/devoirs.blancs/Correction.prepa.DS5.pdf)
