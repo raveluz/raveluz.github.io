@@ -14,7 +14,7 @@ Bonnes révisions à toutes et tous! :punch:
 
 ### Lundi 22 décembre 2025 : durée 1h environ
 
-Voici  le [corrigé deupremier exercice](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/08.05.pdf) qui traite des **suites numériques**.
+Voici  le [corrigé deupremier exercice](/pdf/Correction.exercice1.Auto.Noel.pdf) qui traite des **suites numériques**.
 
 
 
