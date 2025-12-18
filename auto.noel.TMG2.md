@@ -5,7 +5,7 @@ mathjax: true
 subtitle: TMaths groupe 2
 ---
 
-Voici un programme de révisions en autonomie pour ces vacances de Noël. Voici le [polycopié d'exercices](pdf/Exercices.Autonomie.Noel.pdf) d'entraînement alternant les notions vues depuis le début de l'année.
+Voici un programme de révisions en autonomie pour ces vacances de Noël. Voici le [polycopié d'exercices](pdf/Exercices.Autonomie.Noel.pdf) d'entraînement alternant les notions vues depuis le début de l'année. C'est une série d'exercices supplémentaire de l'autre polycopié que je vous ai donné en cours. Le premier exercice est le même et traite des suites numériques.
 
 - Lundi 22 décembre 2025 : **suites numériques**.
 
@@ -14,7 +14,7 @@ Bonnes révisions à toutes et tous! :punch:
 
 ### Lundi 22 décembre 2025 : durée 1h environ
 
-Voici  le [corrigé deupremier exercice](/pdf/Correction.exercice1.Auto.Noel.pdf) qui traite des **suites numériques**.
+Voici  le [corrigé du premier exercice](/pdf/Correction.exercice1.Auto.Noel.pdf) qui traite des **suites numériques**.
 
 
 
