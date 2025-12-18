@@ -5,7 +5,7 @@ mathjax: true
 subtitle: TMaths groupe 2
 ---
 
-Voici un programme de révisions en autonomie pour ces vacances de Noël. Voici le [polycopié d'exercices](https://github.com/raveluz/raveluz.github.io/blob/master/pdf/08.05.pdf) d'entraînement alternant les notions vues depuis le début de l'année.
+Voici un programme de révisions en autonomie pour ces vacances de Noël. Voici le [polycopié d'exercices](pdf/Exercices.Autonomie.Noel.pdf) d'entraînement alternant les notions vues depuis le début de l'année.
 
 - Lundi 22 décembre 2025 : suites numériques.
 
