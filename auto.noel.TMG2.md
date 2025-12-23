@@ -18,7 +18,7 @@ Voici  le [corrigé du premier exercice](/pdf/Correction.exercice1.Auto.Noel.pdf
 
 ### Mardi 23 décembre 2025 : durée 45 minutes environ
 
-Ci-joint  le [corrigé du second exercice](/pdf/Correction.exercice2.Auto.Noel.pdf) qui traite des **géométrie dans l'espace**.
+Ci-joint  le [corrigé du second exercice](/pdf/Correction.exercice2.Auto.Noel.pdf) qui traite de la **géométrie dans l'espace**.
 
 ### Mercredi 24 décembre 2025 : durée 1h10 environ
 
