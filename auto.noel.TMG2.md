@@ -16,7 +16,7 @@ Bonnes révisions à toutes et tous! :punch:
 
 Voici  le [corrigé du premier exercice](/pdf/Correction.exercice1.Auto.Noel.pdf) qui traite des **suites numériques**.
 
-### Mardi 23 décembre 2025 : durée 45 minutes environ
+### Mardi 23 décembre 2025 : durée 1 heure 10 environ
 
 Ci-joint  le [corrigé du second exercice](/pdf/Correction.exercice2.Auto.Noel.pdf) qui traite des **géométrie dans l'espace**.
 
