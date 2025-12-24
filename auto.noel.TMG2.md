@@ -25,7 +25,7 @@ Ci-joint  le [corrigé du second exercice](/pdf/Correction.exercice2.Auto.Noel.p
 Le [corrigé du troisième exercice](/pdf/Correction.exercice3.Auto.Noel(2).pdf) qui est un exercice complet sur la **fonction exponentielle**.
 
 
-
+### Jeudi 25 décembre 2025 : repos ! :face_in_clouds:
 
 
 
