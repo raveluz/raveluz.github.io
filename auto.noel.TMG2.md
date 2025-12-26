@@ -28,11 +28,15 @@ Le [corrigé du troisième exercice](/pdf/Correction.exercice3.Auto.Noel(2).pdf)
 ### Jeudi 25 décembre 2025 : repos ! :face_in_clouds:
 
 
+
 ### Vendredi 26 décembre 2025 : durée 1h environ
 
 Le [corrigé du quatrième exercice](/pdf/Correction.exercice4.Auto.Noel.pdf) qui relie **probabilités et suites**.
 
 
+### Samedi 27 décembre 2025 : durée 1h environ
+
+Le [corrigé du cinquième exercice](/pdf/Correction.exercice5.Auto.Noel.pdf) qui traite ** des probabilités discrètes**.
 
 
 
