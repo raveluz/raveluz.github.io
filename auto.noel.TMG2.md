@@ -36,7 +36,7 @@ Le [corrigé du quatrième exercice](/pdf/Correction.exercice4.Auto.Noel.pdf) qu
 
 ### Samedi 27 décembre 2025 : durée 1h environ
 
-Le [corrigé du cinquième exercice](/pdf/Correction.exercice5.Auto.Noel.pdf) qui traite ** des probabilités discrètes**.
+Le [corrigé du cinquième exercice](/pdf/Correction.exercice5.Auto.Noel.pdf) qui traite **des probabilités discrètes**.
 
 
 
