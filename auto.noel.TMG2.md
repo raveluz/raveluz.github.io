@@ -39,6 +39,8 @@ Le [corrigé du quatrième exercice](/pdf/Correction.exercice4.Auto.Noel.pdf) qu
 Le [corrigé du cinquième exercice](/pdf/Correction.exercice5.Auto.Noel.pdf) qui traite **des probabilités discrètes**.
 
 
+### Dimanche 28 décembre 2025 : repos ! :face_in_clouds:
+
 
 
 
