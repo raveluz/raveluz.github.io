@@ -58,3 +58,10 @@ Le [corrigé du septième exercice](/pdf/Correction.exercice7.Auto.Noel.pdf), un
 ### Mercredi 31 décembre 2025 : durée 1h environ
 
 Le [corrigé du huitième exercice](/pdf/Correction.exercice8.Auto.Noel.pdf), un autre classique sur les  **suites numériques**.
+
+---
+
+### Jeudi 01 janvier 2026 : bonne année à toutes et tous ! :smiley:
+
+---
+
