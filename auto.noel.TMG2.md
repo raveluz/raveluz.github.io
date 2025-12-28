@@ -20,6 +20,9 @@ Voici  le [corrigé du premier exercice](/pdf/Correction.exercice1.Auto.Noel.pdf
 
 Ci-joint  le [corrigé du second exercice](/pdf/Correction.exercice2.Auto.Noel.pdf) qui traite de la **géométrie dans l'espace**.
 
+
+
+
 ### Mercredi 24 décembre 2025 : durée 1h10 environ
 
 Le [corrigé du troisième exercice](/pdf/Correction.exercice3.Auto.Noel(2).pdf) qui est un exercice complet sur la **fonction exponentielle**.
@@ -42,6 +45,9 @@ Le [corrigé du cinquième exercice](/pdf/Correction.exercice5.Auto.Noel.pdf) qu
 ### Dimanche 28 décembre 2025 : repos ! :face_in_clouds:
 
 
+### Lundi 29 décembre 2025 : durée 1h30 environ
+
+Le [corrigé du sixième exercice](/pdf/Correction.exercice6.Auto.Noel.pdf) qui est sujet difficile qui même **fonction exponentielle et suites numériques**.
 
 
 
