@@ -12,7 +12,7 @@ Voici un programme de révisions en autonomie pour ces vacances de Noël. Voici 
 Je vous posterai le corrigé le lendemain pour vous permettre de vérifier si ce que vous faites est correct ou non.
 Bonnes révisions à toutes et tous! :punch:
 
-## Lundi 22 décembre 2025 : durée 1h environ
+### Lundi 22 décembre 2025 : durée 1h environ
 
 Voici  le [corrigé du premier exercice](/pdf/Correction.exercice1.Auto.Noel.pdf) qui traite des **suites numériques**.
 
