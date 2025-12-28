@@ -63,7 +63,8 @@ Le [corrigé du huitième exercice](/pdf/Correction.exercice8.Auto.Noel.pdf), un
 
 ### Jeudi 01 janvier 2026 : bonne année à toutes et tous ! :smiley:
 
-Je joins le [polycopié](pdf/Exercices.Conseilles.TMathsG2.pdf) des exercices distribués en classe et je vous encourage fortement de les revoir avant le bac blanc. Ci-joint son [corrigé](/pdf/recueil.correction.exercicesconseilles.Noel.pdf), il doit y avoir des fautes de frappe 😆
+Je joins le [polycopié](pdf/Exercices.Conseilles.TMathsG2.pdf) des exercices distribués en classe et je vous encourage fortement de les revoir avant le bac blanc. Ci-joint son [corrigé](/pdf/recueil.correction.exercicesconseilles.Noel.pdf), il doit y avoir sans aucun doutedes fautes de frappe 😆
+
 
 ---
 
