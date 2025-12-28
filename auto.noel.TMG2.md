@@ -55,4 +55,6 @@ Le [corrigé du sixième exercice](/pdf/Correction.exercice6.Auto.Noel.pdf) qui 
 Le [corrigé du septième exercice](/pdf/Correction.exercice7.Auto.Noel.pdf), un classique sur les  **probabilités discrètes**.
 
 
+### Mercredi 31 décembre 2025 : durée 1h environ
 
+Le [corrigé du huitième exercice](/pdf/Correction.exercice8.Auto.Noel.pdf), un autre classique sur les  **probabilités discrètes**.
