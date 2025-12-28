@@ -44,6 +44,7 @@ Le [corrigé du cinquième exercice](/pdf/Correction.exercice5.Auto.Noel.pdf) qu
 
 ### Dimanche 28 décembre 2025 : repos ! :face_in_clouds:
 
+---
 
 ### Lundi 29 décembre 2025 : durée 1h30 environ
 
