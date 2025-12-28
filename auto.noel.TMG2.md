@@ -40,6 +40,7 @@ Le [corrigé du quatrième exercice](/pdf/Correction.exercice4.Auto.Noel.pdf) qu
 
 Le [corrigé du cinquième exercice](/pdf/Correction.exercice5.Auto.Noel.pdf) qui traite **des probabilités discrètes**.
 
+---
 
 ### Dimanche 28 décembre 2025 : repos ! :face_in_clouds:
 
@@ -47,7 +48,7 @@ Le [corrigé du cinquième exercice](/pdf/Correction.exercice5.Auto.Noel.pdf) qu
 
 ### Lundi 29 décembre 2025 : durée 1h30 environ
 
-Le [corrigé du sixième exercice](/pdf/Correction.exercice6.Auto.Noel.pdf) qui est sujet difficile qui même **fonction exponentielle et suites numériques**.
+Le [corrigé du sixième exercice](/pdf/Correction.exercice6.Auto.Noel.pdf) qui est sujet difficile qui mêle **fonction exponentielle et suites numériques**.
 
 
 
