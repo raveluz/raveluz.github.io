@@ -50,7 +50,9 @@ Le [corrigé du cinquième exercice](/pdf/Correction.exercice5.Auto.Noel.pdf) qu
 
 Le [corrigé du sixième exercice](/pdf/Correction.exercice6.Auto.Noel.pdf) qui est sujet difficile qui mêle **fonction exponentielle et suites numériques**.
 
+### Mardi 30 décembre 2025 : durée 1h environ
 
+Le [corrigé du septième exercice](/pdf/Correction.exercice7.Auto.Noel.pdf), un classique sur les  **probabilités discrètes**.
 
 
 
