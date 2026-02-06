@@ -9,7 +9,9 @@ Voici les différents liens pour les capsules vidéos.
 Bon visionnage à toutes et tous! :punch:
 
 
+### Vidéo 4 : préparation du cours sur les variables aléatoires.
 
+Voici la <a href=""> vidéo  </a> à visionner pour le cours sur les variables aléatoires. Pensez à prendre stylo et surligneurs pour compléter le cours au fur et à mesure.
 
 ### Vidéo 3 : correction du QCM n°1.
 
