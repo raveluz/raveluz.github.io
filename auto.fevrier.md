@@ -1,6 +1,6 @@
 ---
 layout: page
-title: vanaces de février
+title: vacances de février
 mathjax: true
 subtitle: TMaths groupe 2
 ---
