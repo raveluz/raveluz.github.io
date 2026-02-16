@@ -21,7 +21,7 @@ Voici  le [corrigé du second exercice](/pdf/Correction.exercice2.suites.fevrier
 ### Mercredi 18 février 2026 : durée 1h sur les probabilités
 
 
-Voici  le [corrigé du troisième exercice](/pdf/Correction.exercice3.probabilites.fevrierpdf) qui traite des **probabilités**.
+Voici  le [corrigé du troisième exercice](/pdf/Correction.exercice3.probabilites.fevrier.pdf) qui traite des **probabilités**.
 
 ---
 
