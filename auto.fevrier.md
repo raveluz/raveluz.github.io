@@ -23,6 +23,14 @@ Voici  le [corrigé du second exercice](/pdf/Correction.exercice2.suites.fevrier
 
 Voici  le [corrigé du troisième exercice](/pdf/Correction.exercice3.probabilites.fevrier.pdf) qui traite des **probabilités**.
 
+
+### Jeudi 19 février 2026 : durée 1h sur la fonction ln
+
+
+Voici  le [corrigé du dernier exercice](/pdf/Correction.exercice4.ln.fevrier.pdf) qui traite de la fonction ln.
+
+
+
 ---
 
 
