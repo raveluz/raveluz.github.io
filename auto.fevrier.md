@@ -13,6 +13,9 @@ Voici un programme de révisions en autonomie pour ces vacances de février. Voi
 Voici  le [corrigé du premier exercice](/pdf/Correction.exercice1.espace.fevrier.pdf) qui traite de **la géométrie dans l'espace**.
 
 
+### Mardi 17 février 2026 : durée 1h environ sur les suites numériques 
+
+Voici  le [corrigé du second exercice](/pdf/Correction.exercice2.suites.fevrier.pdf) qui traite des **suites numériques**.
 
 
 ---
