@@ -18,9 +18,11 @@ Voici  le [corrigé du premier exercice](/pdf/Correction.exercice1.espace.fevrie
 Voici  le [corrigé du second exercice](/pdf/Correction.exercice2.suites.fevrier.pdf) qui traite des **suites numériques**.
 
 
-### Mercredi 18 février 2026 : durée 1h environ sur les probabilités
+### Mercredi 18 février 2026 : durée 1h sur les probabilités
+
 
 Voici  le [corrigé du troisième exercice](/pdf/Correction.exercice3.probabilites.fevrierpdf) qui traite des **probabilités**.
+
 ---
 
 
