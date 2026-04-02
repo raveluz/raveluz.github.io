@@ -9,6 +9,11 @@ Voici les différents liens pour les capsules vidéos.
 Bon visionnage à toutes et tous! :punch:
 
 
+
+### Vidéo 5 : préparation du cours sur la fonction exponentielle.
+
+La <a href="https://youtu.be/mslFwFrR-YA?si=-G9MNL-XoogJAjFZ"> vidéo  </a> à visionner pour le cours sur la fonction exponentielle. Pensez à prendre stylo et surligneurs pour compléter le cours au fur et à mesure."> vidéo  </a> à visionner pour le cours sur les variables aléatoires. Pensez à prendre stylo et surligneurs pour compléter le cours au fur et à mesure.
+
 ### Vidéo 4 : préparation du cours sur les variables aléatoires.
 
 Voici la <a href="https://youtu.be/NkDaXjNBp6g"> vidéo  </a> à visionner pour le cours sur les variables aléatoires. Pensez à prendre stylo et surligneurs pour compléter le cours au fur et à mesure.
