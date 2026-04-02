@@ -12,7 +12,7 @@ Bon visionnage à toutes et tous! :punch:
 
 ### Vidéo 5 : préparation du cours sur la fonction exponentielle.
 
-La <a href="https://youtu.be/mslFwFrR-YA?si=-G9MNL-XoogJAjFZ"> vidéo  </a> à visionner pour le cours sur la fonction exponentielle. Pensez à prendre stylo et surligneurs pour compléter le cours au fur et à mesure."> vidéo  </a> à visionner pour le cours sur les variables aléatoires. Pensez à prendre stylo et surligneurs pour compléter le cours au fur et à mesure.
+La <a href="https://youtu.be/mslFwFrR-YA?si=-G9MNL-XoogJAjFZ"> vidéo  </a> à visionner pour le cours sur la fonction exponentielle. Pensez à prendre stylo et surligneurs pour compléter le cours au fur et à mesure.
 
 ### Vidéo 4 : préparation du cours sur les variables aléatoires.
 
