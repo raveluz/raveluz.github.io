@@ -8,6 +8,9 @@ Voici les différents sujets d'entraînement pour vous aider à préparer au mie
 
 Bon courage à toutes et tous! :punch:
 
+### Correction exercices Pâques.
+
+La [correction](/pdf/Correction.paques.pdf) des exercices de révisions des vacances de Pâques.
 
 
 ### Devoir surveillé n°1 : second degré (partie 1).
