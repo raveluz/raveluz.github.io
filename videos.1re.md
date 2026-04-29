@@ -8,7 +8,9 @@ Voici les différents liens pour les capsules vidéos.
 
 Bon visionnage à toutes et tous! :punch:
 
+### Vidéo 6 : enroulement de la droite des réels.
 
+La <a href=""> vidéo  </a> à visionner pour visulaiser l'enroulement de la droite des réels autour du cercle trigonométrique.
 
 ### Vidéo 5 : préparation du cours sur la fonction exponentielle.
 
