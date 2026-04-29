@@ -8,6 +8,11 @@ Voici les différents sujets d'entraînement pour vous aider à préparer au mie
 
 Bon courage à toutes et tous! :punch:
 
+### Correction exercices de révisions pour le second bac blanc.
+
+La [correction]() des exercices de révisions.
+
+
 ### Correction exercices Pâques.
 
 La [correction](/pdf/Correction.paques.pdf) des exercices de révisions des vacances de Pâques.
