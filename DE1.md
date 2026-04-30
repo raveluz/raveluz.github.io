@@ -10,7 +10,7 @@ Bon courage à toutes et tous! :punch:
 
 ### Correction exercices de révisions pour le second bac blanc.
 
-La [correction]() des exercices de révisions.
+La [correction](https://youtu.be/k1mLEc8TNL4) en vidéo des exercices de révisions.
 
 
 ### Correction exercices Pâques.
