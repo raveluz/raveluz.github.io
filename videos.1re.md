@@ -10,7 +10,7 @@ Bon visionnage à toutes et tous! :punch:
 
 ### Vidéo 6 : enroulement de la droite des réels.
 
-La <a href=""> vidéo  </a> à visionner pour visulaiser l'enroulement de la droite des réels autour du cercle trigonométrique.
+La <a href="https://www.youtube.com/watch?v=6RYGPwWV9pw&feature=youtu.be"> vidéo  </a> à visionner pour visulaiser l'enroulement de la droite des réels autour du cercle trigonométrique.
 
 ### Vidéo 5 : préparation du cours sur la fonction exponentielle.
 
