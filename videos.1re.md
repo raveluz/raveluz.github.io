@@ -10,7 +10,7 @@ Bon visionnage à toutes et tous! :punch:
 
 ### Vidéo 7 : fin du cours (et du programme!!!) sur la trigonométrie.
 
-La <a href="https://www.youtube.com/watch?v=6RYGPwWV9pw&feature=youtu.be"> vidéo  </a> à visionner pour compléter la dernière partie du cours.
+La <a href="https://www.youtube.com/watch?v=G1SKf8Hw9bE"> vidéo  </a> à visionner pour compléter la dernière partie du cours.
 
 
 ### Vidéo 6 : enroulement de la droite des réels.
