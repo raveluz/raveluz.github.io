@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archives
-subtitle: TMaths groupe 2
+subtitle: TMaths groupe 5
 ---
 
 Voici les différents sujets d'entraînement donnés l'an passé pour vous aider à préparer au mieux les devoirs en classe. Je vous joins également leurs corrigés.
