@@ -14,9 +14,7 @@ Bon courage à toutes et tous! :punch:
 
 Le [sujet](/devoirs.blancs/DS1.Probabilites.20243025.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS1.2024.2025.pdf).
 
-<details markdown="1">
-<summary>Voir les autres devoirs d'entraînement</summary>
-
+<!--
 ### Devoir n°2 : 55 minutes sur les probabilités et les suites
 
 Le [sujet](/devoirs.blancs/DS2.Suites.Proba.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS2.Suite.Proba.pdf).
@@ -43,5 +41,4 @@ Le [sujet](/devoirs.blancs/DS5.blanc.2025.2026.pdf) ainsi que son [corrigé](/de
 ### Devoir n°6 : 55 minutes sur les limites de fonctions
 
 Le [sujet](/devoirs.blancs/Revisions.DS6.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.prepa.DS6.pdf).
-
-</details>
+-->
