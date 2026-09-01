@@ -14,7 +14,7 @@ Bon courage à toutes et tous! :punch:
 
 Le [sujet de 2024](/devoirs.blancs/DS1.Probabilites.20242025.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS1.2024.2025.pdf).
 
-Le [sujet de 2025]() ainsi que son [corrigé](/devoirs.blancs/Correction.DS1.2024.2025.pdf).
+Le [sujet de 2025](/devoirs.blancs/DS1.TMG2.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS1.TMG2.pdf).
 
 <!--
 ### Devoir n°2 : 55 minutes sur les probabilités et les suites
