@@ -8,14 +8,7 @@ Voici les différents sujets d'entraînement pour vous aider à préparer au mie
 
 Bon courage à toutes et tous! :punch:
 
-### Correction exercices de révisions pour le second bac blanc.
 
-La [correction](https://youtu.be/k1mLEc8TNL4) en vidéo des exercices de révisions.
-
-
-### Correction exercices Pâques.
-
-La [correction](/pdf/Correction.paques.pdf) des exercices de révisions des vacances de Pâques.
 
 
 ### Devoir surveillé n°1 : second degré (partie 1).
@@ -44,3 +37,12 @@ Le [sujet](/devoirs.blancs/DS4.proba.pdf) et son [corrigé](/devoirs.blancs/Corr
 
 
 Le [sujet de préparation](/devoirs.blancs/prepa.DS5.proba.nb.derive.pdf) pour le devoir du vendredi 12 décembre et son [corrigé](/devoirs.blancs/Correction.prepa.DS5.pdf)
+
+### Correction exercices de révisions pour le second bac blanc.
+
+La [correction](https://youtu.be/k1mLEc8TNL4) en vidéo des exercices de révisions.
+
+
+### Correction exercices Pâques.
+
+La [correction](/pdf/Correction.paques.pdf) des exercices de révisions des vacances de Pâques.
