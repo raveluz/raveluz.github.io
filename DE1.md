@@ -48,4 +48,3 @@ La [correction](/pdf/Correction.paques.pdf) des exercices de révisions des vaca
 
 -->---
 
-ection.paques.pdf) des exercices de révisions des vacances de Pâques.
