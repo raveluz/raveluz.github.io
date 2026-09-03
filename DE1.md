@@ -15,6 +15,54 @@ Bon courage à toutes et tous! :punch:
 
 Le [sujet](/devoirs.blancs/DS1.1re.2025.2026.pdf) de l'an dernier et son [corrigé](/devoirs.blancs/Correction.DS1.1MathsG1..pdf).
 
+<!-- 
+
+### Devoir surveillé n°2 : géométrie repérée.
+
+Le [sujet](/devoirs.blancs/DS2.geo.reperee.pdf) et son [corrigé](/devoirs.blancs/Correction.DS2.Geo.reperee.pdf).
+
+
+### Devoir surveillé n°3 : bilan de demi-trimestre 
+
+Le [sujet](/devoirs.blancs/DS3.Second.Degre(2).geo.reperee.pdf) et son [corrigé](/devoirs.blancs/Correction.DS3B.Second.degre.geo.pdf).
+
+
+### Devoir surveillé n°4 : probabilités discrètes
+
+Le [sujet](/devoirs.blancs/DS4.proba.pdf) et son [corrigé](/devoirs.blancs/Correction.DS4.blanc.1reG1.2025.2026.pdf).
+
+
+### Devoir surveillé n°5 : indépendance et nombre dérivé
+
+Le [sujet de préparation](/devoirs.blancs/prepa.DS5.proba.nb.derive.pdf) pour le devoir du vendredi 12 décembre et son [corrigé](/devoirs.blancs/Correction.prepa.DS5.pdf)
+
+
+### Correction exercices de révisions pour le second bac blanc.
+
+La [correction](https://youtu.be/k1mLEc8TNL4) en vidéo des exercices de révisions.
+
+
+### Correction exercices Pâques.
+
+La [correction](/pdf/Correction.paques.pdf) des exercices de révisions des vacances de Pâques.
+
+-->---
+layout: page
+title: Archives
+subtitle: 1re Maths groupe 7
+---
+
+Voici les différents sujets d'entraînement pour vous aider à préparer au mieux les devoirs en classe. Je vous joins également leurs corrigés.
+
+Bon courage à toutes et tous! :punch:
+
+
+
+
+### Devoir surveillé n°1 de 55 minutes sur le second degré (partie 1).
+
+Le [sujet](/devoirs.blancs/DS1.1re.2025.2026.pdf) de l'an dernier et son [corrigé](/devoirs.blancs/Correction.DS1.1MathsG1..pdf).
+
 <!--
 
 ### Devoir surveillé n°2 : géométrie repérée.
