@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ressources en SNT
+title: En SNT
 mathjax: true
 subtitle: seconde 3
 ---
