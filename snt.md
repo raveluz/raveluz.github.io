@@ -11,7 +11,7 @@ Voici les différents chapitres que nous traiterons tout au long de l'année.:pu
 
 ### Chapitre 1 : traitement des données.
 
-Voici  le [chapitre 1](/SNT/Ch01_Donnees.pdf) qui évoque le  **traitement des données**.
+Voici  le [chapitre 1](/SNT/Ch01_internet.NB.pdf) qui traite d'**internet**.
 
 
 
