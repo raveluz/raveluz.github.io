@@ -14,6 +14,7 @@ Bon courage à toutes et tous! :punch:
 ### Devoir surveillé n°1 de 55 minutes sur le second degré (partie 1).
 
 Le [sujet](/devoirs.blancs/DS1.1re.2025.2026.pdf) de l'an dernier et son [corrigé](/devoirs.blancs/Correction.DS1.1MathsG1..pdf).
+Un autre [entraînement](/devoirs.blancs/E1.1re.pdf) avec son [corrigé](/devoirs.blancs/Correction.E1.1re.pdf).
 
 <!-- 
 
