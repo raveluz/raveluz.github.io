@@ -19,7 +19,7 @@ Le [sujet de 2025](/devoirs.blancs/DS1.TMG2.pdf) ainsi que son [corrigé](/devoi
 
 ### Devoir n°2 : 55 minutes sur les probabilités et les suites
 
-Le [sujet](/devoirs.blancs/DS2.Suites.Proba.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS2.Suite.Proba.pdf).
+Le [sujet](/pdf/DS2.TMG2.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS2.Suite.Proba.pdf).
 
 
 
