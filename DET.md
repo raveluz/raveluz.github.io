@@ -19,7 +19,7 @@ Le [sujet de 2025](/devoirs.blancs/DS1.TMG2.pdf) ainsi que son [corrigé](/devoi
 
 ### Devoir n°2 : 55 minutes sur les probabilités et les suites
 
-Le [sujet](/pdf/DS2.TMG2.pdf) ainsi que son [corrigé](/pdf/Correction.DS2.TMG2.pdf).
+Le [sujet de 2025](/pdf/DS2.TMG2.pdf) ainsi que son [corrigé](/pdf/Correction.DS2.TMG2.pdf).
 
 La [correction](/pdf/Correction.AutoRecurrence.pdf) des exercices d'entraînement sur la récurrence.
 
