@@ -17,11 +17,15 @@ Le [sujet](/devoirs.blancs/DS1.1re.2025.2026.pdf) de l'an dernier et son [corrig
 
 Un autre [entraînement](/devoirs.blancs/E1.1re.pdf) avec son [corrigé](/devoirs.blancs/Correction.E1.1re.pdf).
 
+
+
+### Devoir surveillé n°2 de 2025.
+
+Le [sujet](/devoirs.blancs/E2.1re.pdf) et son [corrigé](/devoirs.blancs/Correction.E2.1re.pdf).
+
+
+
 <!-- 
-
-### Devoir surveillé n°2 : géométrie repérée.
-
-Le [sujet](/devoirs.blancs/DS2.geo.reperee.pdf) et son [corrigé](/devoirs.blancs/Correction.DS2.Geo.reperee.pdf).
 
 
 ### Devoir surveillé n°3 : bilan de demi-trimestre 
