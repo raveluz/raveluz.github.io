@@ -25,12 +25,21 @@ Le [sujet](/devoirs.blancs/E2.1re.pdf) et son [corrigé](/devoirs.blancs/Correct
 
 
 
-<!-- 
+
 
 
 ### Devoir surveillé n°3 : bilan de demi-trimestre 
 
-Le [sujet](/devoirs.blancs/DS3.Second.Degre(2).geo.reperee.pdf) et son [corrigé](/devoirs.blancs/Correction.DS3B.Second.degre.geo.pdf).
+Le [sujet](/devoirs.blancs/E3.1re.pdf) et son [corrigé](/devoirs.blancs/Correction.DS3B.Second.degre.geo.pdf).
+
+
+
+
+
+
+<!-- 
+
+
 
 
 ### Devoir surveillé n°4 : probabilités discrètes
