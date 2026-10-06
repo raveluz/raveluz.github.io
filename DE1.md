@@ -28,7 +28,7 @@ Le [sujet](/devoirs.blancs/E2.1re.pdf) et son [corrigé](/devoirs.blancs/Correct
 
 
 
-### Devoir surveillé n°3 : bilan de demi-trimestre 
+### Devoir surveillé n°3 de 2025 sur la géométrie repérée.
 
 Le [sujet](/devoirs.blancs/E3.1re.pdf) et son [corrigé](/devoirs.blancs/Correction.DS3B.Second.degre.geo.pdf).
 
