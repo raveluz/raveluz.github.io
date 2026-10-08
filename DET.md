@@ -34,7 +34,7 @@ La [correction](/pdf/Correction.AutoRecurrence.pdf) des exercices d'entraînemen
 
 ### Devoir n°3 : 2 heures sur les suites et la convexité.
 
-Le [sujet](/DS3.2025.2026.pdf) ainsi que son [corrigé](/pdf/Correction.DS3.2025.2026.pdf).
+Le [sujet de 2025](/pdf/DS3.2025.2026.pdf) ainsi que son [corrigé](/pdf/Correction.DS3.2025.2026.pdf).
 
 
 <!--
