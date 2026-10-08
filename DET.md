@@ -10,14 +10,14 @@ Bon courage à toutes et tous! :punch:
 
 
 
-### Devoir n°1 : 55 minutes sur les probabilités discrètes
+### Devoir n°1 : 55 minutes sur les probabilités discrètes.
 
 Le [sujet de 2024](/devoirs.blancs/DS1.Probabilites.20242025.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS1.2024.2025.pdf).
 
 Le [sujet de 2025](/devoirs.blancs/DS1.TMG2.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS1.TMG2.pdf).
 
 
-### Devoir n°2 : 55 minutes sur les probabilités et les suites
+### Devoir n°2 : 55 minutes sur les probabilités et les suites.
 
 Le [sujet de 2025](/pdf/DS2.TMG2.pdf) ainsi que son [corrigé](/pdf/Correction.DS2.TMG2.pdf).
 
@@ -25,16 +25,20 @@ La [correction](/pdf/Correction.AutoRecurrence.pdf) des exercices d'entraînemen
 
 
 
+
+
+
+
+
+
+
+### Devoir n°3 : 2 heures sur les suites et la convexité.
+
+$Le [sujet](/devoirs.blancs/DS3.blanc.2025.2026.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS3Blanc.pdf).
+
+
 <!--
 
-
-
-
-
-
-### Devoir n°3 : 55 minutes sur les suites et les limites
-
-Le [sujet](/devoirs.blancs/DS3.blanc.2025.2026.pdf) ainsi que son [corrigé](/devoirs.blancs/Correction.DS3Blanc.pdf).
 
 ### Devoir n°4 : 2 heures (suites et convexité)
 
