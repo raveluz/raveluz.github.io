@@ -30,7 +30,7 @@ Le [sujet](/devoirs.blancs/E2.1re.pdf) et son [corrigé](/devoirs.blancs/Correct
 
 ### Devoir surveillé n°3 de 2025 sur la géométrie repérée.
 
-Le [sujet](/pdf/E3.1re.pdf) et son [corrigé](/pdf/Correction.E3.1re.pdf).
+Le [sujet](/pdf/E3.1re.pdf) et son [corrigé](/pdf/Correction.E3.pdf).
 
 
 
