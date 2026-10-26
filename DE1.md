@@ -36,6 +36,10 @@ Le [sujet](/pdf/E3.1re.pdf) et son [corrigé](/pdf/Correction.E3.pdf).
 
 
 
+### Devoir surveillé n°4 de 2025 sur le second degré.
+
+Le [sujet](/pdf/E4.1re.pdf) et son [corrigé](/pdf/Correction.E4.pdf).
+
 
 <!-- 
 
