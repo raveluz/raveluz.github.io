@@ -40,7 +40,7 @@ Le [sujet de 2025](/pdf/DS3.2025.2026.pdf) ainsi que son [corrigé](/pdf/Correct
 
 ### Devoir n°4 : 2 heures sur les suites numériques.
 
-Le [sujet de 2025](/pdf/DS4.2h.TMG2.pdf) ainsi que son [corrigé](/pdf/pdf).
+Le [sujet de 2025](/pdf/DS4.2h.TMG2.pdf) ainsi que son [corrigé](/pdf/Correction.DS4.2025.2026.pdf).
 
 
 <!--
