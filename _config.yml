@@ -29,7 +29,7 @@ navbar-links:
  # - Les automatismes :  "auto1"
   - Les devoirs d'entraînement : "DE1"
   - Capsules vidéo : "videos.1re"
-  - Cahier d'automatismes : "/pdf/CdA_Seconde.pdf"
+  - Cahier d'automatismes : "/pdf/CdA_1re.pdf"
   Terminale :
   - Les spécialistes : "DET"
   #- Côté experts :  "DEE"
