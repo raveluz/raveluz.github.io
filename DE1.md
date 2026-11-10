@@ -41,6 +41,12 @@ Le [sujet](/pdf/E3.1re.pdf) et son [corrigé](/pdf/Correction.E3.pdf).
 Le [sujet](/pdf/E4.1re.pdf) et son [corrigé](/pdf/Correction.E4.pdf).
 
 
+
+### Exercices conseillés pour le devoir surveillé n°5 de 2 heures
+
+Le [sujet](/pdf/E5.1re.pdf) et son [corrigé]().
+
+
 <!-- 
 
 
