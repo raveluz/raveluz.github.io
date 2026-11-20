@@ -46,7 +46,7 @@ Le [sujet de 2025](/pdf/DS4.2h.TMG2.pdf) ainsi que son [corrigé](/pdf/Correctio
 
 ### Devoir n°6 : exercices d'approfondissement proposés.
 
-Le [sujet de 2025](/pdf/E6.20262027.pdf) ainsi que son [corrigé](/pdf/Correction.E6.pdf).
+Les [exercices d'approfondissement](/pdf/E6.20262027.pdf) ainsi que leur [corrigé](/pdf/Correction.E6.pdf).
 
 
 
