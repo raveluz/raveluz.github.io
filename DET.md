@@ -51,7 +51,7 @@ Les [exercices d'approfondissement](/pdf/E6.20262027.pdf) ainsi que leur [corrig
 
 ### Devoir n°7 : exercices de révisions proposés.
 
-Les [exercices proposés](/pdf/E7.20262027.pdf) ainsi que leur [corrigé]().
+Les [exercices proposés](/pdf/E7.2026.2027.pdf) ainsi que leur [corrigé]().
 
 <!--
 
